@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "torish14"
-description   = "CLI Todo APp"
+description   = "CLI Todo App"
 license       = "MIT"
 srcDir        = "src"
 bin           = @["cli_todo_app"]
