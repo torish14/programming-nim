@@ -1,1 +1,7 @@
-*.backup
+*
+!*/
+!.github
+!.gitignore
+!*.nim
+!*.nimble
+!README.md
